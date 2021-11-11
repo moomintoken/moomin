@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.7c028e79ee6cba3b3d0ad7616cb2283a.js"
+  "precache-manifest.44ea1689bf66e18cb7e33c4b9bbbc579.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "moomin"});
